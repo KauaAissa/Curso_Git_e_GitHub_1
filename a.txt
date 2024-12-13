@@ -2,3 +2,4 @@ Testando
 Uma
 Atualização
 Enviando a funcionalidade A
+Enviando a funcionalidade B
