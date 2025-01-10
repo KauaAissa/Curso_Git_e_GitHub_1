@@ -48,7 +48,7 @@ Este repositório contém os exercícios e projetos realizados durante o curso. 
 
 Aqui está o certificado de conclusão do curso:
 
-![Certificado do Curso](/assets/curso_git.jpg)
+<img src="/assets/curso_git.jpg" alt="Certificado do Curso" width="600">
 
 ## Autor
 
